@@ -6,3 +6,4 @@ for i in N2:
     if i == v:
         cnt += 1
 print(cnt)
+ 

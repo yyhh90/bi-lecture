@@ -4,4 +4,4 @@ M = int(M)
 if N > M:
     print(N - M)
 else:
-    print(M - N)
+    print(M - N) 
