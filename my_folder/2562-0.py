@@ -5,4 +5,4 @@ for i in range(9):
 
 max_n = max(L)
 print(max_n)
-print(L.index(max_n) + 1)
+print(L.index(max_n) + 1) 
